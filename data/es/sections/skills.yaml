@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  # - name: Docker
+  #   logo: /images/sections/skills/docker.svg
+  #   summary: 'Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process.'
+  #   url: 'https://www.docker.com/'
+
+  - name: Linux
+    logo: /images/skills/linux.png
+    summary: 'Normalmente uso Linux como sistema operativo principal. Capacidad de escribir scripts de shell.'
+
+  - name: Git
+    logo: /images/skills/git.jpeg
+    summary: 'Experiencia con el manejo de Git y utilización de Git Flow en todos los proyectos.'
+    url: 'https://git-scm.com/'
+
+  - name: Node.js
+    logo: /images/skills/node.png
+    summary: 'Desarrollo de back-end con API REST con Node.js, Express.js y Nest.js. Manejo de librerías como JWT para tokens'
+    url: 'https://nodejs.org/es/'
+
+  - name: Angular
+    logo: /images/skills/angular.png
+    summary: 'Desarrollo de front-end con Angular. Creación de componentes en sucesivos módulos para optimizar la aplicación.'
+    url: 'https://nodejs.org/es/'
