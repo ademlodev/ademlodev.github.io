@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313 # http://ademlo.github.io
+baseURL: http://odralin.github.io
 languageCode: en-us
 defaultContentLanguage: es
 title: 'Ademlo'
@@ -29,7 +29,7 @@ params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
 
-  background: '/images/home-back.jpg'
+  background: 'images/home-back.jpg'
 
   # The inverted logo will be used in the initial transparent navbar and
   # the main logo will be used in the non-transparent navbar.
