@@ -16,21 +16,36 @@ skills:
   #   summary: 'Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process.'
   #   url: 'https://www.docker.com/'
 
-  - name: Linux
-    logo: /images/skills/linux.png
-    summary: 'I normally use Linux as my primary operating system. Ability to write shell scripts.'
+  - name: Node.js
+    logo: /images/skills/node.png
+    summary: 'Back-end development with REST API with Node.js, Express.js and Nest.js. Handling of libraries such as JWT for tokens.'
+    url: 'https://nodejs.org/es/'
+
+  - name: Java
+    logo: /images/skills/java.png
+    summary: 'Back-end REST API development with Java and Spring. Handling of various libraries'
+    url: 'https://www.java.com/'
+
+  - name: Angular
+    logo: /images/skills/angular.png
+    summary: 'Front-end development with Angular. Creation of components in successive modules to optimize the application.'
+    url: 'https://nodejs.org/es/'
+
+  - name: Swift
+    logo: /images/skills/swift.png
+    summary: 'Development native apps for Apple IOS'
+    url: https://developer.apple.com/swift/
+
+  - name: Kotlin
+    logo: /images/skills/kotlin.svg
+    summary: 'Development native apps for Android'
+    url: https://kotlinlang.org/
 
   - name: Git
     logo: /images/skills/git.jpeg
     summary: 'Experience with Git management and use of Git Flow on all projects.'
     url: 'https://git-scm.com/'
 
-  - name: Node.js
-    logo: /images/skills/node.png
-    summary: 'Back-end development with REST API with Node.js, Express.js and Nest.js. Handling of libraries such as JWT for tokens.'
-    url: 'https://nodejs.org/es/'
-
-  - name: Angular
-    logo: /images/skills/angular.png
-    summary: 'Front-end development with Angular. Creation of components in successive modules to optimize the application.'
-    url: 'https://nodejs.org/es/'
+  - name: Linux
+    logo: /images/skills/linux.png
+    summary: 'I normally use Linux as my primary operating system. Ability to write shell scripts. Which distros do you use?'

@@ -15,7 +15,7 @@ company:
   url: 'http://devanddel.com/'
 
 # your resume. this file path should be relative to you "static" directory
-# resume: 'files/resume.pdf'
+resume: 'files/Cv_Francisco_Javier_Garcia.pdf'
 
 # a summary about you
 summary:
@@ -27,7 +27,10 @@ summary:
 socialLinks:
   - name: Github
     icon: 'fab fa-github'
-    url: 'https://github.com/jgarciaolmeda'
+    url: 'https://github.com/ademlodev'
+  - name: LinkedIn
+    icon: 'fab fa-linkedin'
+    url: 'https://www.linkedin.com/in/javiergarciaolmeda/'
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -39,3 +42,9 @@ softSkills:
   - name: Team Work
     percentage: 95
     color: yellow
+  - name: 'Scrum'
+    percentage: 75
+    color: pink
+  - name: 'Comunicación'
+    percentage: 100
+    color: green
