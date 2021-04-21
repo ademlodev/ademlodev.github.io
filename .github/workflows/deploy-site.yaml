@@ -28,7 +28,7 @@ jobs:
         run: hugo --minify
 
       - name: Copy statics files
-        run: cp ./static_to_main ./public
+        run: cp -r ./static_to_main ./public
 
       # push the generated content into the `main` (former `master`) branch.
       - name: Deploy
