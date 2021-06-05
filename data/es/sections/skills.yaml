@@ -46,5 +46,5 @@ skills:
     url: 'https://git-scm.com/'
 
   - name: Linux
-    logo: /images/skills/linux_small.png
+    logo: /images/skills/linux.webp
     summary: 'Normalmente uso Linux como sistema operativo principal. Capacidad de escribir scripts de shell. ¿Qué distros usas tu?'
