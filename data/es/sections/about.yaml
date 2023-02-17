@@ -25,12 +25,15 @@ summary:
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-  - name: Github
-    icon: 'fab fa-github'
-    url: 'https://github.com/ademlodev'
   - name: LinkedIn
     icon: 'fab fa-linkedin'
     url: 'https://www.linkedin.com/in/javiergarciaolmeda/'
+  - name: Github
+    icon: 'fab fa-github'
+    url: 'https://github.com/ademlodev'
+  - name: Stack Overflow
+    icon: 'fab fa-stack-overflow'
+    url: 'https://es.stackoverflow.com/users/35727/javier-garc%c3%ada'
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
