@@ -31,6 +31,9 @@ socialLinks:
   - name: Github
     icon: 'fab fa-github'
     url: 'https://github.com/ademlodev'
+  - name: Gitlab
+    icon: 'fab fa-gitlab'
+    url: 'https://gitlab.com/ademlodev'
   - name: Stack Overflow
     icon: 'fab fa-stack-overflow'
     url: 'https://es.stackoverflow.com/users/35727/javier-garc%c3%ada'
