@@ -25,6 +25,11 @@ skills:
     summary: 'Desarrollo de back-end API REST con Java y Spring. Manejo de diversas librerías'
     url: 'https://www.java.com/'
 
+  - name: Flutter
+    logo: /images/skills/flutter.png
+    summary: 'Creación de aplicaciones móviles para IOs y Android'
+    url: 'https://flutter.dev/'
+  
   - name: Angular
     logo: /images/skills/angular.png
     summary: 'Desarrollo de front-end con Angular. Creación de componentes en sucesivos módulos para optimizar la aplicación.'

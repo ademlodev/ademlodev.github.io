@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Freelance and Software Engineer
+designation: Freelance Software Engineer
 # your company information
 company:
   name: Dev & Del.
@@ -19,8 +19,7 @@ resume: 'files/Cv_Francisco_Javier_Garcia.pdf'
 
 # a summary about you
 summary:
-  'Hello, I am a passionate of application development with more than 10 years of experience. Defender of good practices, I try to implement them in everything I build...
-  I build web applications using [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)), [JamStack](https://jamstack.org/) (like this one) using Hugo. also I do web application development in Java.'
+  'With 14 years of experience in Fullstack web development, I am an advocate of SOLID principles and clean code. I build web applications using Node.js and Angular with [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)), API Rest with Java (Spring), I have also generated my web with [JamStack](https://jamstack.org/) and created mobile applications with Flutter.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
