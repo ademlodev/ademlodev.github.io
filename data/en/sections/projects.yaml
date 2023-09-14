@@ -9,17 +9,35 @@ section:
   # hideTitle: true
 
 buttons:
-- name: All
-  filter: "all"
-- name: Professional
-  filter: "professional"
+  - name: All
+    filter: 'all'
+  - name: Professional
+    filter: 'professional'
+  - name: Personal
+    filter: 'personal'
 
 projects:
-- name: Sudoku
-  logo: images/projects/sudoku.webp
-  role: Owner
-  timeline: "Dec 2022 - Present"
-  # repo: https://github.com/kubernetes/kubernetes
-  url: "https://play.google.com/store/apps/details?id=com.ademlo.sudoku"
-  summary: Basic Sudoku game.
-  tags: ["professional", "game", "mobile"]
+  - name: Sudoku
+    logo: images/projects/sudoku.webp
+    role: Owner
+    timeline: 'Dec 2022 - Present'
+    # repo: https://github.com/kubernetes/kubernetes
+    url: 'https://play.google.com/store/apps/details?id=com.ademlo.sudoku'
+    summary: Basic Sudoku game.
+    tags: ['professional', 'game', 'mobile']
+
+  - name: Ademlo
+    logo: images/favicon-32x32.png
+    role: Fullstack developer
+    timeline: 'Mar 2021 - Actual'
+    url: 'https://www.ademlo.com/'
+    summary: Web blog personal
+    tags: ['personal', 'web']
+
+  - name: Atento Live
+    logo: images/projects/Atento.png
+    role: Fullstack Node.js and Angular developer
+    timeline: 'May 2021 - May 2022'
+    url: 'https://atentolive.com/'
+    summary: Website for the company Atento where they publish promotional videos of the company.
+    tags: ['professional', 'web']

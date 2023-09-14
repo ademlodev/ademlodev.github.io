@@ -53,7 +53,7 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
-  # specify whether you want the language flags to be displayed. 
+  # specify whether you want the language flags to be displayed.
   showFlags: true
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.

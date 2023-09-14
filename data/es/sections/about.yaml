@@ -15,11 +15,10 @@ company:
   url: 'http://devanddel.com/'
 
 # your resume. this file path should be relative to you "static" directory
-resume: 'files/Cv_Francisco_Javier_Garcia.pdf'
+resume: 'files/CV_Francisco_Javier_Garcia_ES.pdf'
 
 # a summary about you
-summary:
-  'Con 14 años de experiencia en desarrollo Web Fullstack, soy defensor de los principios SOLID y código limpio. Construyo aplicaciones Web mediante Node.js y Angular con [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)), API Rest con Java (Spring), también he generado mi web con [JamStack](https://jamstack.org/) y he creado aplicaciones móviles con Flutter.'
+summary: 'Con 14 años de experiencia en desarrollo Web Fullstack, soy defensor de los principios SOLID y código limpio. Construyo aplicaciones Web mediante Node.js y Angular con [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)), API Rest con Java (Spring), también he generado mi web con [JamStack](https://jamstack.org/) y he creado aplicaciones móviles con Flutter.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
