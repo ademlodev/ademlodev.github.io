@@ -30,6 +30,7 @@ jobs:
       - name: Install node modules
         run: |
           hugo mod npm pack
+          npm install cytoscape@3.30.2 --save-dev
           npm install
 
       - name: Build
