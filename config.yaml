@@ -2,7 +2,6 @@ baseURL: https://www.ademlo.com #http://localhost:1313
 languageCode: en-us
 defaultContentLanguage: es
 title: 'Ademlo'
-theme: 'toha'
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
