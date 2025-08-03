@@ -1,4 +1,0 @@
-
-ademlo.com, 12345, DIRECT, d75815a79
-
-google.com, pub-7037718301521657, DIRECT, f08c47fec0942fa0
