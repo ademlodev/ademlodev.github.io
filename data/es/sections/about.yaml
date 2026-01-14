@@ -11,8 +11,8 @@ section:
 designation: Autónomo e Ingeniero del software
 # your company information
 company:
-  name: Dev & Del.
-  url: 'http://devanddel.com/'
+  name: Ademlo.
+  url: 'https://www.ademlo.com/'
 
 # your resume. this file path should be relative to you "static" directory
 resume: 'files/CV_Francisco_Javier_Garcia_ES.pdf'
